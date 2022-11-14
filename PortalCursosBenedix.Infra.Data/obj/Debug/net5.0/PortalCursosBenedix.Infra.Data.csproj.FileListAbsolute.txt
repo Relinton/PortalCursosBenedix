@@ -1,0 +1,15 @@
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\bin\Debug\net5.0\PortalCursosBenedix.Infra.Data.deps.json
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\bin\Debug\net5.0\PortalCursosBenedix.Infra.Data.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\bin\Debug\net5.0\ref\PortalCursosBenedix.Infra.Data.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\bin\Debug\net5.0\PortalCursosBenedix.Infra.Data.pdb
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\bin\Debug\net5.0\PortalCursosBenedix.Domain.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\bin\Debug\net5.0\PortalCursosBenedix.Domain.pdb
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\PortalCursosBenedix.Infra.Data.csproj.AssemblyReference.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\PortalCursosBenedix.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\PortalCursosBenedix.Infra.Data.AssemblyInfoInputs.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\PortalCursosBenedix.Infra.Data.AssemblyInfo.cs
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\PortalCursosBenedix.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\PortalCursosBenedix.Infra.Data.csproj.CopyComplete
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\PortalCursosBenedix.Infra.Data.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\ref\PortalCursosBenedix.Infra.Data.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Infra.Data\obj\Debug\net5.0\PortalCursosBenedix.Infra.Data.pdb

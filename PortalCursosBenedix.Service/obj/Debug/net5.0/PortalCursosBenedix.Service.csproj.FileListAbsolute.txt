@@ -1,0 +1,17 @@
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\bin\Debug\net5.0\PortalCursosBenedix.Service.deps.json
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\bin\Debug\net5.0\PortalCursosBenedix.Service.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\bin\Debug\net5.0\ref\PortalCursosBenedix.Service.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\bin\Debug\net5.0\PortalCursosBenedix.Service.pdb
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\bin\Debug\net5.0\PortalCursosBenedix.Domain.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\bin\Debug\net5.0\PortalCursosBenedix.Infra.Data.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\bin\Debug\net5.0\PortalCursosBenedix.Domain.pdb
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\bin\Debug\net5.0\PortalCursosBenedix.Infra.Data.pdb
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\PortalCursosBenedix.Service.csproj.AssemblyReference.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\PortalCursosBenedix.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\PortalCursosBenedix.Service.AssemblyInfoInputs.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\PortalCursosBenedix.Service.AssemblyInfo.cs
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\PortalCursosBenedix.Service.csproj.CoreCompileInputs.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\PortalCursosBenedix.Service.csproj.CopyComplete
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\PortalCursosBenedix.Service.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\ref\PortalCursosBenedix.Service.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Service\obj\Debug\net5.0\PortalCursosBenedix.Service.pdb

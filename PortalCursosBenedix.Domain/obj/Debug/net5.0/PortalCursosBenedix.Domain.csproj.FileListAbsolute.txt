@@ -1,0 +1,12 @@
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\bin\Debug\net5.0\PortalCursosBenedix.Domain.deps.json
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\bin\Debug\net5.0\PortalCursosBenedix.Domain.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\bin\Debug\net5.0\ref\PortalCursosBenedix.Domain.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\bin\Debug\net5.0\PortalCursosBenedix.Domain.pdb
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\obj\Debug\net5.0\PortalCursosBenedix.Domain.csproj.AssemblyReference.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\obj\Debug\net5.0\PortalCursosBenedix.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\obj\Debug\net5.0\PortalCursosBenedix.Domain.AssemblyInfoInputs.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\obj\Debug\net5.0\PortalCursosBenedix.Domain.AssemblyInfo.cs
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\obj\Debug\net5.0\PortalCursosBenedix.Domain.csproj.CoreCompileInputs.cache
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\obj\Debug\net5.0\PortalCursosBenedix.Domain.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\obj\Debug\net5.0\ref\PortalCursosBenedix.Domain.dll
+D:\Relinton Sistemas\PortalCursosBenedix\PortalCursosBenedix.Domain\obj\Debug\net5.0\PortalCursosBenedix.Domain.pdb
